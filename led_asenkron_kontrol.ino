@@ -1,4 +1,4 @@
-struct LedKontrol {
+ struct LedKontrol {
   int pin;
   unsigned long aralik;
   unsigned long oncekiZaman;
