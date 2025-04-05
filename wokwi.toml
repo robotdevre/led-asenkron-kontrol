@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = "build/led_blink.ino.hex"
-elf = "build/led_blink.ino.elf"
+firmware = "build/led-asenkron-kontrol.ino.hex"
+elf = "build/led-asenkron-kontrol.ino.elf"
