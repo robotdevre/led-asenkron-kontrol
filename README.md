@@ -1,5 +1,5 @@
 # led-asenkron-kontrol ✅
-![Wokwi CI](https://github.com/robotdevre/led_blink/actions/workflows/wokwi.yml/badge.svg)
+![Wokwi CI](https://github.com/robotdevre/led-asenkron-kontrol/actions/workflows/wokwi.yml/badge.svg)
 
 Bu proje, Arduino Uno kartı kullanılarak iki LED’in farklı aralıklarda asenkron şekilde yanıp sönmesini sağlar. Yapılandırılmış `struct` yapısı ile temel zamanlama mantığı öğretilir. Orta seviye bir Arduino projesidir.
 
