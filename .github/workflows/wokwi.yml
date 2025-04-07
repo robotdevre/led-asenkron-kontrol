@@ -1,4 +1,4 @@
-name: Wokwi CI 
+name: Wokwi CI  
 
 on: [push]
 
